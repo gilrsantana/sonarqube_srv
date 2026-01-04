@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "PostgreSQL - SonarQube",
+      "Group": "Databases",
+      "Host": "db",
+      "Port": 5432,
+      "MaintenanceDB": "sonar",
+      "Username": "sonar",
+      "SSLMode": "prefer"
+    }
+  }
+}
