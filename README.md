@@ -186,7 +186,9 @@ Data persists in:
 pgadmin_data
 ```
 
-So login, preferences, and saved connections survive restarts.--
+So login, preferences, and saved connections survive restarts.
+
+---
 
 ## 🌐 Networking
 
